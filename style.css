@@ -1,5 +1,5 @@
 .d1{
-    width: 100%;
+    width: auto;
     height: 339px;
 }
 .d1 h1{
@@ -8,7 +8,7 @@
 }
 
 .footer-dark {
-  padding:50px 0;
+  padding:100px 0;
   color:#f0f9ff;
   background-color:#282d32;
 }
